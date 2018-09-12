@@ -1,6 +1,4 @@
 # DotNet46
-
-<<<<<<< HEAD
 ## 集合
 ---
 ### 1.List\<T\>
@@ -140,9 +138,4 @@ __public delegate TOutput Converter<in TInput, out TOutput\>(TInput input);__
 将一种类型转化为另一种类型，并返回
 __public delegate bool Predicate<in T\>(T obj);__ 
 定义一组条件，并确定传入的对象是否符合这些条件
-=======
-## <font color="green" size ="24">集合</font>
----
-### 1.List\<T\>  
- __List是基于<font style="color:red;">数组</font>，实现了<font style="color:red;">容量可变</font>的<font style="color:red;">泛型</font>列表.__
->>>>>>> 7238f58adc1d3cdba5c084685f8df94cee628cca
+
