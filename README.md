@@ -1,6 +1,6 @@
 # DotNet46
 
-![进度](http://progressed.io/bar/0.08?title=progress) 
+![进度](http://progressed.io/bar/0?title=progress) 
 
 ## 集合
 集合名称 | 笔记
