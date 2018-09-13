@@ -2,7 +2,13 @@
 ## 集合
 集合名称 | 笔记
 --------|--------
+Array | :x:
 List | :o:
+Dictionary | :x:
+Stack | :x:
+Queue | :x:
+LinkedList | :x:
+ 
 ---
 ### 1.List\<T\>
  **List是基于容量可变泛型列表.**
