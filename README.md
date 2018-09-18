@@ -159,7 +159,7 @@ PostConditions:
 ---
 ## 关系图
 
-!(与集合相关的几种接口的关系)[https://github.com/SixGodZhang/Source/blob/master/Assets/%E6%B3%9B%E5%9E%8B%E5%87%A0%E7%A7%8D%E6%8E%A5%E5%8F%A3%E7%9A%84%E7%BB%A7%E6%89%BF%E5%85%B3%E7%B3%BB.png]
+!(与集合相关的几种接口的关系)[https://github.com/SixGodZhang/Source/blob/master/Assets/someinterfaces.png]
 
 
 ## IEnumerable
