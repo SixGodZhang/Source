@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Collections.ArrayList" Collapsed="true">
+    <Position X="1.25" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGKAAEAwAACAIBIQCAAQFAQiAJAIAIAAKEoKAIJUIBA=</HashCode>
+      <FileName>system\collections\arraylist.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.735" />
+  </Class>
+  <Class Name="System.Collections.SortedList" Collapsed="true">
+    <Position X="5.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIACGAyAACMIBAQCCAAFAQiAACIACAGKEAnIAJQIBA=</HashCode>
+      <FileName>system\collections\sortedlist.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.BitArray" Collapsed="true">
+    <Position X="3.25" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABQAAgAACAJBBQCAAQEIRBACgIgAAgAAAAAAAIIBA=</HashCode>
+      <FileName>system\collections\bitarray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.DictionaryBase" Collapsed="true">
+    <Position X="8" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQMAgAAABREBBAQAIEAAAQAAAAAhgAEAAQIAIRAIAI=</HashCode>
+      <FileName>system\collections\dictionarybase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Comparer" Collapsed="true">
+    <Position X="9.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAiAAAAECAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\comparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.CompatibleComparer" Collapsed="true">
+    <Position X="12" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAgAAAABAAAAAAAKAAAABAAAAAAQA=</HashCode>
+      <FileName>system\collections\compatiblecomparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.EmptyReadOnlyDictionaryInternal" Collapsed="true">
+    <Position X="6.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAABAQCAAAFAQgAAAAAAAEAAAgAABQIAA=</HashCode>
+      <FileName>system\collections\emptyreadonlydictionaryinternal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Hashtable" Collapsed="true">
+    <Position X="1.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAIhQmEiQASsABARDCAgFAQgEAiIEiAGKAAzAAJwJBA=</HashCode>
+      <FileName>system\collections\hashtable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.HashHelpers" Collapsed="true">
+    <Position X="4" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAEAAAAAAAIAEGAAAAmAAAAQAAAAAABAAAQAAKAAEA=</HashCode>
+      <FileName>system\collections\hashtable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.KeyValuePairs" Collapsed="true">
+    <Position X="9" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>system\collections\keyvaluepairs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.ListDictionaryInternal" Collapsed="true">
+    <Position X="11" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAgACAABAQDAAAFAQgAAAIAAAEAAAgAABQIAA=</HashCode>
+      <FileName>system\collections\listdictionaryinternal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Queue" Collapsed="true">
+    <Position X="1.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQAAAAACUIBAAAAAAUAQAAAAIBAIAIAAAAgJZIBA=</HashCode>
+      <FileName>system\collections\queue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Stack" Collapsed="true">
+    <Position X="3.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAACEIBAAAAAAEAQAAACIAAAAIAAAAAJQKBA=</HashCode>
+      <FileName>system\collections\stack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.StructuralComparisons" Collapsed="true">
+    <Position X="8.5" Y="21.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>system\collections\structuralcomparisons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.StructuralEqualityComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="22.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\structuralcomparisons.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Collections.StructuralComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="21.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\structuralcomparisons.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Collections.Generic.Dictionary&lt;TKey, TValue&gt;" Collapsed="true">
+    <Position X="0.75" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CwIABnQgSBBMiRBBHIAgBAQgAABIgiAEAAApIIVCIRI=</HashCode>
+      <FileName>system\collections\generic\dictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Generic.Comparer&lt;T&gt;" Collapsed="true">
+    <Position X="7.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAEAAAAAAAAAAAJAAAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\comparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Generic.GenericComparer&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\comparer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.NullableComparer&lt;T&gt;" Collapsed="true">
+    <Position X="11.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\comparer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.ObjectComparer&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\comparer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.ComparisonComparer&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAIA=</HashCode>
+      <FileName>system\collections\generic\comparer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AGIQGEgwBQBAIBAEGAAUFAQCCJkaAKAAKAkSAINUIYA=</HashCode>
+      <FileName>system\collections\generic\list.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="System.Collections.Generic.KeyValuePair&lt;TKey, TValue&gt;" Collapsed="true">
+    <Position X="0.75" Y="11" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAEAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\keyvaluepair.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="System.Collections.IEnumerable">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\ienumerable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IEnumerable&lt;T&gt;">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\ienumerable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.ICollection&lt;T&gt;">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAQAAAABAQAAAAAAAAAAAAAAABQIAA=</HashCode>
+      <FileName>system\collections\generic\icollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.ICollection" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAEAQAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>system\collections\icollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IDictionary">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAQCAAABAAgAAAAAAAAAAAgAABQAAA=</HashCode>
+      <FileName>system\collections\idictionary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IList" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAEAAAAAAAAAQCAAABAAgAAAAAAAACAAAAABQAAA=</HashCode>
+      <FileName>system\collections\ilist.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IList&lt;T&gt;">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\ilist.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IComparer" Collapsed="true">
+    <Position X="13" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\icomparer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IDictionaryEnumerator" Collapsed="true">
+    <Position X="17.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>system\collections\idictionaryenumerator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IEnumerator" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAACAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\ienumerator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IEqualityComparer" Collapsed="true">
+    <Position X="18.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\iequalitycomparer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IHashCodeProvider" Collapsed="true">
+    <Position X="18.75" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\ihashcodeprovider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IStructuralComparable" Collapsed="true">
+    <Position X="18.75" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\istructuralcomparable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IComparer&lt;T&gt;" Collapsed="true">
+    <Position X="12.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\icomparer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IDictionary&lt;TKey, TValue&gt;">
+    <Position X="7.5" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAEAAAACAAABAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\idictionary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IEnumerator&lt;T&gt;" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\ienumerator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IEqualityComparer&lt;T&gt;" Collapsed="true">
+    <Position X="11.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\iequalitycomparer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IReadOnlyCollection&lt;T&gt;" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\ireadonlycollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IReadOnlyDictionary&lt;TKey, TValue&gt;">
+    <Position X="6.75" Y="7" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\ireadonlydictionary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.Generic.IReadOnlyList&lt;T&gt;">
+    <Position X="3.25" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>system\collections\generic\ireadonlylist.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

@@ -37,14 +37,14 @@ namespace System.Collections.Generic {
     {
         private const int _defaultCapacity = 4;
 
-        private T[] _items;
+        private T[] _items;//List中用来存储数据的数组
         [ContractPublicPropertyName("Count")]
-        private int _size;
-        private int _version;
+        private int _size;//_items中有实际数据的值
+        private int _version;//List中每一种元素的变更
         [NonSerialized]
         private Object _syncRoot;
         
-        static readonly T[]  _emptyArray = new T[0];        
+        static readonly T[]  _emptyArray = new T[0];//空数组,用于初始化        
             
         // Constructs a List. The list is initially empty and has a capacity
         // of zero. Upon adding the first element to the list the capacity is
@@ -234,6 +234,7 @@ namespace System.Collections.Generic {
                 ThrowHelper.ThrowWrongValueTypeArgumentException(item, typeof(T));            
             }
 
+            //如果 返回值 == -1,则Add 为成功
             return Count - 1;
         }
 
