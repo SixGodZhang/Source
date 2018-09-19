@@ -164,7 +164,7 @@ PostConditions:
 
 ## IEnumerable
 
-```
+``` csharp
    public interface IEnumerable
     {
         // Interfaces are not serializable
@@ -178,7 +178,7 @@ PostConditions:
 
 ## IEnumrable<T\>
 泛型IEnumrable<T> 继承了IEnumrable,并屏蔽了GetEnumerator
-```
+``` csharp
     public interface IEnumerable<out T> : IEnumerable
     {
         // Returns an IEnumerator for this enumerable Object.  The enumerator provides
@@ -189,7 +189,7 @@ PostConditions:
 ```
 
 ## ICollection<T>
-```
+``` csharp
    public interface ICollection<T> : IEnumerable<T>
     {
         // Number of items in the collections.        
@@ -215,7 +215,7 @@ PostConditions:
 ```
 
 ## ICollection
-```
+``` csharp
     public interface ICollection : IEnumerable
     {
         // Interfaces are not serialable

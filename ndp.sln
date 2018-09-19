@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsatUI", "ndp\cdf\src\WCF\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlBuildTask", "ndp\cdf\src\NetFx40\XamlBuildTask\XamlBuildTask.csproj", "{49494F6F-055D-4BBE-954B-EC5AC79AF8F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnSource", "LearnSource\LearnSource.csproj", "{90F72FE9-6B38-4A69-BF1E-9152FF62AA40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{49494F6F-055D-4BBE-954B-EC5AC79AF8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49494F6F-055D-4BBE-954B-EC5AC79AF8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49494F6F-055D-4BBE-954B-EC5AC79AF8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F72FE9-6B38-4A69-BF1E-9152FF62AA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F72FE9-6B38-4A69-BF1E-9152FF62AA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F72FE9-6B38-4A69-BF1E-9152FF62AA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F72FE9-6B38-4A69-BF1E-9152FF62AA40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
